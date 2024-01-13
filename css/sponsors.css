@@ -1,0 +1,338 @@
+.sponsors {
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sponsors .div {
+  background-color: #1e1e1e;
+  width: 1440px;
+  height: 2471px;
+  position: relative;
+}
+
+.sponsors .div-2 {
+  height: 222px;
+  top: 0;
+  background-color: #ffffff;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.sponsors .image {
+  width: 235px;
+  height: 204px;
+  top: 11px;
+  left: 610px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.sponsors .rectangle {
+  height: 94px;
+  top: 128px;
+  background-color: #1e1e1e;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.sponsors .img {
+  width: 145px;
+  height: 126px;
+  top: 0;
+  left: 655px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.sponsors .text-wrapper {
+  width: 123px;
+  top: 154px;
+  left: 40px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-2 {
+  width: 93px;
+  top: 154px;
+  left: 239px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-3 {
+  width: 214px;
+  top: 154px;
+  left: 407px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-4 {
+  width: 197px;
+  top: 154px;
+  left: 682px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-5 {
+  top: 154px;
+  left: 939px;
+  color: #ffffff;
+  position: absolute;
+  width: 252px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-6 {
+  width: 166px;
+  top: 154px;
+  left: 1253px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .overlap {
+  height: 384px;
+  top: 2087px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.sponsors .p {
+  position: absolute;
+  width: 692px;
+  top: 320px;
+  left: 374px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sponsors .instagram {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 143px;
+  left: 1066px;
+  object-fit: cover;
+}
+
+.sponsors .image-2 {
+  width: 235px;
+  height: 204px;
+  top: 101px;
+  left: 603px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.sponsors .element-stone-rd-e-guelph {
+  position: absolute;
+  width: 329px;
+  top: 112px;
+  left: 206px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-7 {
+  width: 123px;
+  top: 54px;
+  left: 30px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-8 {
+  width: 91px;
+  top: 54px;
+  left: 230px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-9 {
+  width: 191px;
+  top: 54px;
+  left: 397px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-10 {
+  width: 197px;
+  top: 54px;
+  left: 672px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-11 {
+  top: 54px;
+  left: 929px;
+  color: #000000;
+  position: absolute;
+  width: 252px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-12 {
+  width: 166px;
+  top: 54px;
+  left: 1243px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sponsors .overlap-group {
+  height: 357px;
+  top: 530px;
+  background-color: #aaaaaa;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.sponsors .text-wrapper-13 {
+  top: 85px;
+  position: absolute;
+  width: 282px;
+  left: 587px;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  color: #000000;
+  font-size: 130px;
+  letter-spacing: 5.2px;
+  line-height: normal;
+}
+
+.sponsors .div-wrapper {
+  height: 357px;
+  top: 887px;
+  background-color: #ffd700;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.sponsors .overlap-2 {
+  height: 357px;
+  top: 1244px;
+  background-color: #d4d1d1;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.sponsors .overlap-3 {
+  height: 486px;
+  top: 1601px;
+  background-color: #cd7f32;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.sponsors .text-wrapper-14 {
+  top: 149px;
+  position: absolute;
+  width: 282px;
+  left: 587px;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  color: #000000;
+  font-size: 130px;
+  letter-spacing: 5.2px;
+  line-height: normal;
+}
+
+.sponsors .text-wrapper-15 {
+  width: 747px;
+  top: 308px;
+  left: 354px;
+  font-family: 'Fugaz One', sans-serif;
+  color: #ffffff;
+  font-size: 130px;
+  letter-spacing: 5.2px;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+

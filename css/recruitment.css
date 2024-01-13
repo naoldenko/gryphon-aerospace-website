@@ -1,0 +1,300 @@
+.recruitment {
+  background-color: #cc8e25;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.recruitment .div {
+  background-color: #cc8e25;
+  width: 1440px;
+  height: 1417px;
+  position: relative;
+}
+
+.recruitment .div-2 {
+  position: absolute;
+  width: 1440px;
+  height: 222px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.recruitment .image {
+  width: 235px;
+  height: 204px;
+  top: 11px;
+  left: 610px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.recruitment .rectangle {
+  height: 94px;
+  top: 128px;
+  background-color: #1e1e1e;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.recruitment .img {
+  width: 145px;
+  height: 126px;
+  top: 0;
+  left: 655px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.recruitment .text-wrapper {
+  width: 123px;
+  top: 154px;
+  left: 40px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-2 {
+  width: 93px;
+  top: 154px;
+  left: 239px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-3 {
+  width: 214px;
+  top: 154px;
+  left: 407px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-4 {
+  top: 154px;
+  left: 682px;
+  color: #ffffff;
+  position: absolute;
+  width: 197px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-5 {
+  width: 252px;
+  top: 154px;
+  left: 939px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-6 {
+  width: 166px;
+  top: 154px;
+  left: 1253px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 384px;
+  top: 1033px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.recruitment .p {
+  position: absolute;
+  width: 692px;
+  top: 305px;
+  left: 374px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.recruitment .instagram {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 128px;
+  left: 1066px;
+  object-fit: cover;
+}
+
+.recruitment .image-2 {
+  width: 235px;
+  height: 204px;
+  top: 86px;
+  left: 603px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.recruitment .element-stone-rd-e-guelph {
+  position: absolute;
+  width: 329px;
+  top: 97px;
+  left: 206px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-7 {
+  width: 123px;
+  top: 39px;
+  left: 30px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-8 {
+  width: 91px;
+  top: 39px;
+  left: 230px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-9 {
+  width: 191px;
+  top: 39px;
+  left: 397px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-10 {
+  top: 39px;
+  left: 672px;
+  color: #000000;
+  position: absolute;
+  width: 197px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-11 {
+  width: 252px;
+  top: 39px;
+  left: 929px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-12 {
+  width: 166px;
+  top: 39px;
+  left: 1243px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.recruitment .overlap-group {
+  position: absolute;
+  width: 584px;
+  height: 145px;
+  top: 606px;
+  left: 428px;
+  background-color: #1e1e1e;
+  border-radius: 23px;
+}
+
+.recruitment .text-wrapper-13 {
+  width: 541px;
+  top: 40px;
+  left: 23px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.recruitment .text-wrapper-14 {
+  width: 1029px;
+  top: 308px;
+  left: 239px;
+  font-family: 'Fugaz One', sans-serif;
+  color: #ffffff;
+  font-size: 130px;
+  letter-spacing: 5.2px;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+

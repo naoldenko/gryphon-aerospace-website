@@ -1,0 +1,311 @@
+.team {
+  background-color: #cc8e25;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.team .div {
+  background-color: #cc8e25;
+  overflow: hidden;
+  width: 1440px;
+  height: 2676px;
+  position: relative;
+}
+
+.team .div-2 {
+  height: 222px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 1440px;
+  background-color: #ffffff;
+}
+
+.team .image {
+  width: 235px;
+  height: 204px;
+  top: 11px;
+  left: 610px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.team .rectangle {
+  height: 94px;
+  top: 128px;
+  background-color: #1e1e1e;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.team .img {
+  width: 145px;
+  height: 126px;
+  top: 0;
+  left: 655px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.team .text-wrapper {
+  width: 123px;
+  top: 154px;
+  left: 40px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-2 {
+  width: 93px;
+  top: 154px;
+  left: 239px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.team .text-wrapper-3 {
+  width: 214px;
+  top: 154px;
+  left: 407px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-4 {
+  top: 154px;
+  left: 682px;
+  color: #ffffff;
+  position: absolute;
+  width: 197px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-5 {
+  top: 154px;
+  left: 939px;
+  color: #ffffff;
+  position: absolute;
+  width: 252px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-6 {
+  width: 166px;
+  top: 154px;
+  left: 1253px;
+  color: #ffffff;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .overlap-group {
+  height: 384px;
+  top: 2292px;
+  left: 1px;
+  position: absolute;
+  width: 1440px;
+  background-color: #ffffff;
+}
+
+.team .p {
+  position: absolute;
+  width: 692px;
+  top: 309px;
+  left: 373px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.team .instagram {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 132px;
+  left: 1065px;
+  object-fit: cover;
+}
+
+.team .image-2 {
+  width: 235px;
+  height: 204px;
+  top: 90px;
+  left: 602px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.team .element-stone-rd-e-guelph {
+  position: absolute;
+  width: 329px;
+  top: 101px;
+  left: 205px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-7 {
+  width: 123px;
+  top: 43px;
+  left: 29px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-8 {
+  width: 91px;
+  top: 43px;
+  left: 229px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.team .text-wrapper-9 {
+  width: 191px;
+  top: 43px;
+  left: 396px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-10 {
+  top: 43px;
+  left: 671px;
+  color: #000000;
+  position: absolute;
+  width: 197px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-11 {
+  top: 43px;
+  left: 928px;
+  color: #000000;
+  position: absolute;
+  width: 252px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-12 {
+  width: 166px;
+  top: 43px;
+  left: 1242px;
+  color: #000000;
+  position: absolute;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.team .text-wrapper-13 {
+  width: 272px;
+  top: 308px;
+  left: 584px;
+  font-family: 'Fugaz One', sans-serif;
+  color: #ffffff;
+  font-size: 130px;
+  letter-spacing: 5.2px;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.team .aviation-two {
+  width: 756px;
+  height: 663px;
+  top: 1566px;
+  left: 34px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.team .aviation-three {
+  width: 619px;
+  height: 749px;
+  top: 1310px;
+  left: 805px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.team .aviation-six {
+  width: 743px;
+  height: 991px;
+  top: 527px;
+  left: 40px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.team .aviation-five {
+  width: 604px;
+  height: 590px;
+  top: 640px;
+  left: 815px;
+  position: absolute;
+  object-fit: cover;
+}
