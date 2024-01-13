@@ -1,4 +1,7 @@
 /* HOME PAGE */
+body {
+  background-color: #1e1e1e
+}
 
 .home {
   background-color: #1e1e1e;
@@ -347,4 +350,15 @@
   top: 224px;
   left: 821px;
   object-fit: cover;
+}
+
+@media only screen and (max-width: 768px) {
+  .home {
+    display: none;
+  }
+  #view-site {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+  }
 }
