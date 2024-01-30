@@ -274,6 +274,10 @@ body {
   border-radius: 23px;
 }
 
+.overlap-group:hover {
+  background-color: #e51936;
+}
+
 .recruitment .text-wrapper-13 {
   width: 541px;
   top: 40px;
