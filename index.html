@@ -9,15 +9,9 @@
       content="https://www.gryphonaerospace.com/assets/gac-logo.png"
     />
 
-    <meta
-      property="og:description"
-      content="Fly High Like A Gryphon"
-    />
+    <meta property="og:description" content="Fly High Like A Gryphon" />
 
-    <meta
-      property="og:url"
-      content="http://www.gryphonaerospace.com"
-    />
+    <meta property="og:url" content="http://www.gryphonaerospace.com" />
     <meta property="og:title" content="Gryphon Aerospace Club" />
     <link rel="icon" href="assets/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="css/globals.css" />
@@ -28,6 +22,7 @@
       href="https://fonts.googleapis.com/css2?family=Fugaz+One&family=Zen+Dots&display=swap"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   </head>
   <body>
     <div class="home">
@@ -77,21 +72,86 @@
         </div>
         <div class="overlap-group-2">
           <div class="rectangle"></div>
-          <img class="gac-group" src="assets/gac-group.jpg" />
-          <img class="home-image-two" src="assets/home-image-two.jpg" />
+          <img class="gac-group" src="assets/gac-group.jpg" data-aos="fade-up">/>
+          <img class="home-image-two" src="assets/home-image-two.jpg" data-aos="fade-up">/>
           <div class="rectangle-2"></div>
-          <img class="aviation-four" src="assets/aviation-four.jpg" />
-          <img class="aviation-one" src="assets/aviation-one.jpg" />
+          <img class="aviation-four" src="assets/aviation-four.jpg" data-aos="fade-up"> />
+          <img class="aviation-one" src="assets/aviation-one.jpg" data-aos="fade-up">/>
+          <div class="rectangle-3"></div>
+          <div class="about" data-aos="fade-up">ABOUT US</div>
+          <p class="history" data-aos="fade-left">
+            GAC was founded in the Fall of 2020 by a group of dedicated
+            mechanical engineers. The club was subsequently reorganized in the
+            Fall of 2022 and has grown significantly since, with over 20 active
+            members, 3 subteams, all to compete in the AEAC competition! The
+            aerospace club will soon grow to include a rocketry team!
+          </p>
+          <div class="team-members">
+            <div class="lucas" data-aos="fade-up">
+              <img class="profile-photo" src="assets/raell.png" />
+              <p class="name">Raell Trinidade</p>
+              <p class="role">Software Lead/Pilot</p>
+              <p class="program">BEng, Mechanical Engineering</p>
+            </div>
+
+            <div class="theo" data-aos="fade-up">
+              <img class="profile-photo" src="assets/theo.png"  />
+              <p class="name">Theodore Hall</p>
+              <p class="role">Competition Lead</p>
+              <p class="program">BSc, Biological Science</p>
+            </div>
+
+            <div class="marko" data-aos="fade-up">
+              <img class="profile-photo" src="assets/marko.jpg" />
+              <p class="name">Marko Pylypec</p>
+              <p class="role">Structural Lead/Pilot</p>
+              <p class="program">BEng, Mechanical Engineering</p>
+            </div>
+
+            <div class="andrew" data-aos="fade-up">
+              <img class="profile-photo" src="assets/andrew.png" />
+              <p class="name">Andrew Faralla</p>
+              <p class="role">Treasurer</p>
+              <p class="program">BCom, Sport Management</p>
+            </div>
+
+            <div class="julien" data-aos="fade-up">
+              <img class="profile-photo" src="assets/julien.png" />
+              <p class="name">Julien Serbanescu</p>
+              <p class="role">Controls & Cyclo Rotor R&D</p>
+              <p class="program">BEng, Computer Engineering</p>
+            </div>
+
+            <div class="brayden" data-aos="fade-up">
+              <img class="profile-photo" src="assets/brayden.png" />
+              <p class="name">Brayden Yip</p>
+              <p class="role">Social Media Coordinator</p>
+              <p class="program">BEng, Eng. Systems & Computing</p>
+            </div>
+
+            <div class="naol" data-aos="fade-up">
+              <img class="profile-photo" src="assets/naol.jpg" />
+              <p class="name">Naol Denko</p>
+              <p class="role">Web Developer</p>
+              <p class="program">BA, Philosophy</p>
+            </div>
+          </div>
         </div>
-        <p class="FLY-HIGH-LIKE-a">
+        <p class="FLY-HIGH-LIKE-a" data-aos="fade-right">
           <span class="span">FLY </span>
           <span class="text-wrapper-14">HIGH<br /></span>
           <span class="span">LIKE A </span>
           <span class="text-wrapper-15">GRYPHON</span>
         </p>
-        <img class="element" src="assets/home-image-one.jpg" />
+        <img class="element" src="assets/home-image-one.jpg" data-aos="fade-up"/>
       </div>
     </div>
     <p id="view-site">View site on laptop/desktop. Thanks, GAC.</p>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1200,
+      });
+    </script>
   </body>
 </html>

@@ -302,4 +302,16 @@ body {
   line-height: normal;
 }
 
+.contact .text-wrapper-15 {
+  position: absolute;
+  width: 1424px;
+  top: 818px;
+  left: 340px;
+  font-family: 'Zen Dots', sans-serif;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
 

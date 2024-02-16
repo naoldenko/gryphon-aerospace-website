@@ -339,4 +339,38 @@ body {
   line-height: normal;
 }
 
+.sponsors .p-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 80px;
+}
 
+.sponsors .text-wrapper-16 {
+  width: 541px;
+  top: 40px;
+  left: 23px;
+  font-family: 'Zen Dots', sans-serif;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.sponsors .overlap-group-sponsors {
+  position: absolute;
+  width: 703px;
+  height: 145px;
+  top: 1956px;
+  left: 378px;
+  background-color: #1e1e1e;
+  border-radius: 23px;
+}
+
+.overlap-group-sponsors:hover {
+  background-color: #e51936;
+}

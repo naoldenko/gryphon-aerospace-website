@@ -1,4 +1,8 @@
 /* HOME PAGE */
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: #1e1e1e
 }
@@ -16,15 +20,6 @@ body {
   width: 1440px;
   height: 2676px;
   position: relative;
-}
-
-.home .overlap {
-  height: 384px;
-  top: 2292px;
-  background-color: #ffffff;
-  position: absolute;
-  width: 1440px;
-  left: 0;
 }
 
 .home .text-wrapper {
@@ -300,6 +295,15 @@ body {
   left: 0;
 }
 
+.home .rectangle-3 {
+  height: 741px;
+  top: 1589px;
+  background-color: #1e1e1e;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
 .home .aviation-four {
   position: absolute;
   width: 740px;
@@ -350,6 +354,148 @@ body {
   top: 224px;
   left: 821px;
   object-fit: cover;
+}
+
+.home .about {
+  position: absolute;
+  width: 700px;
+  top: 1650px;
+  left: 42px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 130px;
+  letter-spacing: 5.2px;
+  line-height: 140px;
+}
+
+.home .history {
+  position: absolute;
+  width: 90%;
+  top: 1800px;
+  left: 84px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .team-members {
+  display: flex;
+  flex-direction: column;
+}
+
+.home .lucas {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  top: 2230px;
+  left: 50px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .theo {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  top: 2230px;
+  left: 550px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .marko {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  top: 2230px;
+  left: 1050px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .andrew {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  top: 3000px;
+  left: 50px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .julien {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  top: 3000px;
+  left: 550px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .brayden {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  top: 3000px;
+  left: 1050px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .naol {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  top: 3770px;
+  left: 50px;
+  color: white;
+  font-family: 'Fugaz One', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.home .profile-photo {
+  width: 200px;
+  height: 200px;
+}
+
+.home .role {
+  font-size: 30px;
+}
+
+.home .program {
+  font-size: 25px;
+}
+
+.home .overlap {
+  height: 384px;
+  top: 5092px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 1440px;
+  left: 0;
 }
 
 @media only screen and (max-width: 768px) {
