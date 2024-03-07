@@ -380,3 +380,13 @@ body {
   height: 200px;
   width: 200px;
 }
+
+.sponsors .clarion:hover {
+  height: 225px;
+  width: 225px;
+}
+
+.sponsors .armoury-labs:hover {
+  height: 225px;
+  width: 225px;
+}

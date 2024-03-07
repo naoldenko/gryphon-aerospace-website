@@ -3,14 +3,37 @@ body {
   margin: 0px;
   height: 100%;
 }
+
 img {
   border-radius: 24px;
 }
+
+.text-wrapper:hover,
+.text-wrapper-2:hover,
+.text-wrapper-3:hover,
+.text-wrapper-4:hover,
+.text-wrapper-5:hover,
+.text-wrapper-6:hover,
+.text-wrapper-7:hover,
+.text-wrapper-8:hover,
+.text-wrapper-9:hover,
+.text-wrapper-10:hover,
+.text-wrapper-11:hover,
+.text-wrapper-12:hover {
+  font-size: 36.5px !important;
+}
+
+.instagram:hover {
+  width: 110px!important;
+  height: 110px!important;
+}
+
 /* a blue color as a generic focus style */
 button:focus-visible {
   outline: 2px solid #4a90e2 !important;
   outline: -webkit-focus-ring-color auto 5px !important;
 }
+
 a {
   text-decoration: none;
 }
