@@ -374,3 +374,9 @@ body {
 .overlap-group-sponsors:hover {
   background-color: #e51936;
 }
+
+/* Sponsors Images */
+.sponsors .clarion {
+  height: 200px;
+  width: 200px;
+}
